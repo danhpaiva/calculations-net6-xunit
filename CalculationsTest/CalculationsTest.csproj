@@ -20,4 +20,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Calculations\Calculations.csproj" />
+  </ItemGroup>
+
 </Project>
